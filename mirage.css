@@ -1,0 +1,138 @@
+body{
+    background-color:  #FCFCFC !important;
+}
+.marque{
+    height: 30px;
+    
+}
+header .nav-link{
+    font-family: 'Circular Std';
+    font-style: normal;
+    color:black;
+    font-size: 20px;
+    line-height: 30px;
+}
+.line{
+    width: 30px;
+height: 3px !important;
+color: #ff0066 !important;
+}
+.cre, .h3dingo{
+    color:  #f78bb6 !important;
+}
+.modu img{
+height: 15px;
+}
+.mod{
+
+background-color:  #f78bb6 !important;
+color: white;
+
+}
+.pinky{
+    background-color:  #FFF1F9 !important; 
+}
+.pinky img{
+    height: 50px;
+    width: 50px;
+}
+.pinky h2{
+    color:    #56597A;
+}
+.ghost{
+    display: none;
+}
+.pinky:hover, .pinky:hover h2{
+    background: #F78CB6 !important;
+    color: white !important;
+}
+.pinky:hover .ghost{
+    display: block;
+}
+.pinky:hover .bi{
+    color: white !important;
+}
+
+header{
+    background-image: url('./Image/coinnav.png');
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-size: 45%;
+}
+.nth , .bi {
+   font-size: 50px;
+    color: #f78bb6 !important;
+}
+.solo{
+    font-size: 15px;
+}
+/* mam */
+.Aderniere{
+
+    background-image: url("./Mail\ Illustration.png");
+
+    background-repeat: no-repeat;
+
+    background-color: #faffff;
+
+}
+
+.mnh1, .mnh3{
+
+    color:#56597A;
+
+}
+
+.mnp, .mnh6{
+
+    color: #919299;
+
+}
+
+.derniere{
+
+    background-image: url('./bas.png');
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+footer{
+    background-color:  #F78CB6;
+    ;
+}
+.form{
+
+    border-radius: 14px;
+
+    height: 70px;
+
+    width: 40%;
+
+    background-color: white;
+
+}
+
+.bouton{
+
+    background-color: #F78CB6;
+
+    text-decoration: none;
+
+    width: 30%;
+
+}
+
+.bouton:hover{
+
+    color: white;
+
+}
+
+.icons{
+
+    background-color: white;
+
+    width: 15%;
+}
